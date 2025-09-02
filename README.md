@@ -38,3 +38,6 @@
   <img alt="docker" src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=fff" />&nbsp;
   <img alt="git" src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 </p>
+
+
+<img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=algolia&layout=compact" />
