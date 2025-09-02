@@ -44,6 +44,6 @@
   <img align="right" height="300px" alt="GitHub Language Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=react&layout=compact&langs_count=10&hide=python,php,javascript,c%23&hide_title=true" />
 </div>
 
-<p align="center">
+<p align="center" style="margin-top:20px">
   <img alt="Leetcode Stats" src="https://leetcard.jacoblin.cool/nymphernus?theme=unicorn" />
 </p>
