@@ -40,4 +40,4 @@
 </p>
 
 
-<img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=algolia&layout=compact" />
+<img height="195px" align="center" alt="Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=algolia" />
