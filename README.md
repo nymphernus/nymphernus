@@ -40,14 +40,16 @@
 </p>
 
 <div>
-<p align="center" height="300" width="1000">
-  <img height="200" width="400" align="left" alt="GitHub Language Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=react&layout=compact&langs_count=6&hide=css,html" />
-  <img height="200" width="400" align="right" alt="GitHub Language Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=react&layout=compact&langs_count=10&hide=python,php,javascript,c%23&hide_title=true" />
-</p>
+  <p align="center">
+    <img alt="GitHub Language Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=react&layout=compact&langs_count=6&hide=css,html" width="400" height="200" />
+    <img alt="GitHub Language Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=react&layout=compact&langs_count=10&hide=python,php,javascript,c%23&hide_title=true" width="400" height="200" />
+  </p>
 </div>
-<h1 align="center"> </h1>
+
+<br><br><br><br><br><br><br><br><br><br>
+
 <div>
-<p align="center" height="200" width="500">
-  <img alt="Leetcode Stats" src="https://leetcard.jacoblin.cool/nymphernus?theme=unicorn" />
-</p>
+  <p align="center">
+    <img alt="Leetcode Stats" src="https://leetcard.jacoblin.cool/nymphernus?theme=unicorn" />
+  </p>
 </div>
