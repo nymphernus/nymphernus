@@ -39,5 +39,6 @@
   <img alt="git" src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 </p>
 
-
-<img height="300px" weight="800px" align="center" alt="Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=algolia&layout=compact" />
+<p align="center">
+  <img height="300px" alt="Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=algolia&layout=compact" />
+</p>
