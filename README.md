@@ -41,13 +41,13 @@
 
 <div>
 <p align="center">
-  <img align="left" alt="GitHub Language Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=react&layout=compact&langs_count=6&hide=css,html" />
-  <img align="right" alt="GitHub Language Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=react&layout=compact&langs_count=10&hide=python,php,javascript,c%23&hide_title=true" />
+  <img height="200" width="400" align="left" alt="GitHub Language Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=react&layout=compact&langs_count=6&hide=css,html" />
+  <img height="200" width="400" align="right" alt="GitHub Language Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=react&layout=compact&langs_count=10&hide=python,php,javascript,c%23&hide_title=true" />
 </p>
 </div>
 <h1 align="center"> </h1>
 <div>
 <p align="center">
-  <img alt="Leetcode Stats" src="https://leetcard.jacoblin.cool/nymphernus?theme=unicorn" />
+  <img height="200" width="500" alt="Leetcode Stats" src="https://leetcard.jacoblin.cool/nymphernus?theme=unicorn" />
 </p>
 </div>
