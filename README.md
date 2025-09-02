@@ -40,6 +40,6 @@
 </p>
 
 <p align="center">
-  <img height="300px" align="left" alt="Github Languages Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=algolia&layout=compact&langs_count=4&hide=css,html" />
-  <img height="300px" align="right" alt="Github Languages Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=algolia&layout=compact&langs_count=4&hide=javascript,python,c#,php" />
+  <img height="300px" align="left" alt="Github Languages Stats2" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=algolia&layout=compact&langs_count=4&hide=css,html" />
+  <img height="300px" align="right" alt="Github Languages Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=algolia&layout=compact&langs_count=4" />
 </p>
