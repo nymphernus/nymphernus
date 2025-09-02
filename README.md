@@ -40,5 +40,5 @@
 </p>
 
 <p align="center">
-  <img height="350px" alt="Github Languages Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=algolia&layout=compact&langs_count=4&hide=css,html" />
+  <img height="350px" alt="Github Languages Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=algolia&layout=compact&langs_count=4&hide=css" />
 </p>
