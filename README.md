@@ -40,22 +40,10 @@
 </p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
-  <img height="300px" alt="Languages 1" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=react&layout=compact&langs_count=6&hide=css,html&hide_title=true" />
-  <img height="300px" alt="Languages 2" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=react&layout=compact&langs_count=10&hide=python,php,javascript,c%23&hide_title=true" />
+  <img align="left" height="300px" alt="GitHub Language Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=react&layout=compact&langs_count=6&hide=css,html&hide_title=true" />
+  <img align="right" height="300px" alt="GitHub Language Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=react&layout=compact&langs_count=10&hide=python,php,javascript,c%23&hide_title=true" />
 </div>
 
 <p align="center">
   <img alt="Leetcode Stats" src="https://leetcard.jacoblin.cool/nymphernus?theme=unicorn" />
-</p>
-
-
-<h2 align="center">My Tech Stack</h2>
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=ambient_gradient&layout=compact&langs_count=6&hide=css,html&hide_title=true" width="300px" height="300px" style="object-fit: cover;" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=ambient_gradient&layout=compact&langs_count=10&hide=python,php,javascript,c%23&hide_title=true" width="300px" height="300px" style="object-fit: cover;" />
-</div>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/nymphernus?theme=light,unicorn" style="max-width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </p>
