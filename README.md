@@ -41,6 +41,6 @@
 
 <p align="center">
   <img height="200px" align="right" alt="Github Languages Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=buefy&layout=compact&langs_count=6&hide=css,html" />
-  <img align="left" alt="Leetcode Stats" src="https://leetcard.jacoblin.cool/nymphernus?theme=light,unicorn&width=200&height=200" />
+  <img align="left" alt="Leetcode Stats" src="https://leetcard.jacoblin.cool/nymphernus?theme=light,unicorn&width=400" />
 <!--   <img height="300px" align="right" alt="Github Languages Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=midnight-purple&layout=compact&langs_count=10&hide=python,php,javascript,c%23&hide_title=true" /> -->
 </p>
