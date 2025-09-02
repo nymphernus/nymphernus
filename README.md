@@ -2,7 +2,7 @@
 ![github-snake](https://github.com/user-attachments/assets/ec340aee-10d9-4765-b671-dd5acaae77f4)
 
 
-<h1 align="center">![counter](https://komarev.com/ghpvc/?username=nymphernus&color=blueviolet&style=for-the-badge)</h1>
+<p align="center">![counter](https://komarev.com/ghpvc/?username=nymphernus&color=blueviolet&style=for-the-badge)</p>
 
 <h1 align="center">Hi 👋, I'm Aleksey Schumann aka nymphernus</h1>
 
