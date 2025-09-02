@@ -39,7 +39,7 @@
   <img alt="git" src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 </p>
 
-<p align="center">
+<p align="center" height="350px">
   <img height="300px" align="left" alt="Github Languages Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=ambient_gradient&layout=compact&langs_count=6&hide=css,html&hide_title=true" />
   <img height="300px" align="right" alt="Github Languages Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=ambient_gradient&layout=compact&langs_count=10&hide=python,php,javascript,c%23&hide_title=true" />
 </p>
@@ -47,5 +47,5 @@
 <p></p>
 
 <p align="center">
-  <img alt="Leetcode Stats" src="https://leetcard.jacoblin.cool/nymphernus?theme=light,unicorn" />
+  <img align="center" alt="Leetcode Stats" src="https://leetcard.jacoblin.cool/nymphernus?theme=light,unicorn" />
 </p>
