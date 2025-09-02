@@ -38,13 +38,15 @@
   <img alt="docker" src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=fff" />&nbsp;
   <img alt="git" src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 </p>
+
 <div>
 <p align="center">
   <img align="left" alt="GitHub Language Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=react&layout=compact&langs_count=6&hide=css,html" />
   <img align="right" alt="GitHub Language Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=react&layout=compact&langs_count=10&hide=python,php,javascript,c%23&hide_title=true" />
 </p>
 </div>
-<div style="margin-top:50px">
+<div style="height: 100px;"></div>
+<div>
 <p align="center">
   <img alt="Leetcode Stats" src="https://leetcard.jacoblin.cool/nymphernus?theme=unicorn" />
 </p>
