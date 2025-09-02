@@ -9,10 +9,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nymphernus&color=blueviolet&style=for-the-badge" />
 </p>
-
 <h1 align="center"></h1>
 
 <h2 align="center">My Languages and Tools:</h3>
+
 <p align="center">
   <img alt="python" src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=fff" />&nbsp;
   <img alt="csharp" src="https://img.shields.io/badge/c%23-239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=fff" />&nbsp;
