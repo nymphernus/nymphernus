@@ -40,6 +40,6 @@
 </p>
 
 <p align="center">
-  <img height="300px" align="left" alt="Github Languages Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=midnight-purple&layout=compact&langs_count=6&hide=css,html&custom_title=My%20Tech%20Stack" />
-  <img height="300px" align="right" alt="Github Languages Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=midnight-purple&layout=compact&langs_count=10&hide=python,php,javascript,c%23&custom_title=Other%20Technology" />
+  <img height="300px" align="left" alt="Github Languages Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=midnight-purple&layout=compact&langs_count=6&hide=css,html&hide_title=true" />
+  <img height="300px" align="right" alt="Github Languages Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=midnight-purple&layout=compact&langs_count=10&hide=python,php,javascript,c%23&hide_title=true" />
 </p>
