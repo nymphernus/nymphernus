@@ -41,7 +41,7 @@
 
 <div>
   <p align="center">
-    <img align="left" alt="GitHub Language Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=react&layout=compact&langs_count=6&hide=css,html" />
+    <img align="left" alt="GitHub Language Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=react&layout=compact&langs_count=6&hide=css,html,jupiter" />
     <img align="right" alt="GitHub Language Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nymphernus&theme=react&layout=compact&langs_count=10&hide_title=true" />
   </p>
 </div>
