@@ -14,10 +14,11 @@
 
 <h2 align="center">My Languages and Tools:<p></p></h3>
 <p align="center">
+  <img alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=openjdk&logoColor=000" />&nbsp;
   <img alt="python" src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=fff" />&nbsp;
+  <img alt="php" src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=fff" />&nbsp;
   <img alt="csharp" src="https://img.shields.io/badge/c%23-239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=fff" />&nbsp;
   <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=000" />&nbsp;
-  <img alt="php" src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=fff" />&nbsp;
 </p>
 
 <p align="center">
@@ -46,7 +47,7 @@
   </p>
 </div>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 <div>
   <p align="center">
