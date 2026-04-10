@@ -17,22 +17,19 @@
   <img alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=openjdk&logoColor=000" />&nbsp;
   <img alt="python" src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=fff" />&nbsp;
   <img alt="php" src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=fff" />&nbsp;
-  <img alt="csharp" src="https://img.shields.io/badge/c%23-239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=fff" />&nbsp;
   <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=000" />&nbsp;
 </p>
 
 <p align="center">
   <img alt="postgresql" src="https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=fff" />&nbsp;
   <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=fff" />&nbsp;
-  <img alt="sqlite" src="https://img.shields.io/badge/sqlite-003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=fff" />&nbsp;
   <img alt="mongodb" src="https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
 </p>
 
 <p align="center">
-  <img alt="dotnet" src="https://img.shields.io/badge/.net-512BD4.svg?&style=for-the-badge&logo=.net&logoColor=fff" />&nbsp;
+  <img alt="springboot" src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img alt="nodejs" src="https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
   <img alt="opencv" src="https://img.shields.io/badge/opencv-5C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=fff" />&nbsp;
-  <img alt="qt" src="https://img.shields.io/badge/qt-41CD52.svg?&style=for-the-badge&logo=qt&logoColor=fff" />&nbsp;
 </p>
 
 <p align="center">
